@@ -2838,7 +2838,7 @@ groups:
         default_value: 35
         field: mc.max_bank_angle
         min: 15
-        max: 45
+        max: 85
       - name: nav_mc_auto_climb_rate
         description: "Maximum climb/descent rate that UAV is allowed to reach during navigation modes. [cm/s]"
         default_value: 500
